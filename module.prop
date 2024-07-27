@@ -1,7 +1,7 @@
-id=httptoolkit-magisk
-name=HttpToolkit Certificate Installer
+id=reqable-magisk
+name=Reqable Certificate Installer
 version=v1.0
 versionCode=1
-author=Mkadir
-description=Install HttpToolkit CA certificate into System CA Store.
-updateJson=https://github.com/Mkadir/HttpToolkitCert/blob/main/update.json
+author=Reqable
+description=Install reqable CA certificate into System CA Store.
+updateJson=https://api.reqable.com/reqable-magisk.json
