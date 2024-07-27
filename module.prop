@@ -3,4 +3,5 @@ name=HttpToolkit Certificate Installer
 version=v1.0
 versionCode=1
 author=Mkadir
-description=Install reqable CA certificate into System CA Store.
+description=Install HttpToolkit CA certificate into System CA Store.
+updateJson=https://github.com/Mkadir/HttpToolkitCert/blob/main/update.json
